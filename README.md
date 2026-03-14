@@ -1,4 +1,4 @@
 # Rudra-demo
 This is my first git repository
 <br>
-Author-Rudra Prasad
+Author-Rudra Prasad(NITT)
